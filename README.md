@@ -1,5 +1,5 @@
 # cs498
-MP1 Specifications
+MP1 Specifications - 
 Below are details regarding the online tutorials used to complete this MP
 1. Complete the tutorial: Used https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4 tutorial as recommended by assignment instructions
 2. Health Bar: Used 
